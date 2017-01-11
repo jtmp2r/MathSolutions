@@ -1,0 +1,5 @@
+/Users/apple/Projects/MathSolutions/MathSolutions/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/apple/Projects/MathSolutions/MathSolutions/bin/Debug/MathSolutions.exe.mdb
+/Users/apple/Projects/MathSolutions/MathSolutions/bin/Debug/MathSolutions.exe
+/Users/apple/Projects/MathSolutions/MathSolutions/obj/x86/Debug/MathSolutions.exe
+/Users/apple/Projects/MathSolutions/MathSolutions/obj/x86/Debug/MathSolutions.exe.mdb
